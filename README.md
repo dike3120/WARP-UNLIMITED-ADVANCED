@@ -81,7 +81,7 @@
 <a name="run-on-google-colab"></a>
 
 ## **🕹️ Run on Google Colab**
-#### **1. Open Code on Google Colab: [Open NoteBook](https://colab.research.google.com/github/TheCaduceus/WARP-UNLIMITED-ADVANCED/blob/main/ipynb/Colab.ipynb)**  
+#### **1. Open Code on Google Colab: [Open NoteBook](https://colab.research.google.com/github/kazimmt/WARP-UNLIMITED-ADVANCED/blob/main/ipynb/Colab.ipynb)**  
 #### **2. Now enter your `WARP_CLIENT_ID` and run The WARP (1.1.1.1) Code as shown in the Image *(click on the Play button on top-left corner)***
 ![3](./Img/3.jpg)
   
