@@ -89,7 +89,7 @@
 
 ## **⚡Host on Heroku**
 #### **1.First click the below deploy button.**
-[![Deploy on Heroku](./Img/Heroku%20Deployment%20Button.png)](https://heroku.com/deploy?template=https://github.com/TheCaduceus/WARP-UNLIMITED-ADVANCED/tree/sys-env)
+[![Deploy on Heroku](./Img/Heroku%20Deployment%20Button.png)](https://heroku.com/deploy?template=https://github.com/kazimmt/WARP-UNLIMITED-ADVANCED/tree/sys-env)
 #### **2. Now, enter the values as discussed above and click `Deploy` button.**
 ![4](./Img/Heroku_Vars.png)
 
@@ -127,7 +127,7 @@
 #### **1. If your PC don't have python & git, then install them first: [Python](https://www.python.org/downloads/), [Git](https://git-scm.com/downloads)**
 #### **2. Download Repository:**
 ```
-git clone https://github.com/TheCaduceus/WARP-UNLIMITED-ADVANCED.git
+git clone https://github.com/kazimmt/WARP-UNLIMITED-ADVANCED.git
 ```
 #### **3. Install requirements:**
 ```
@@ -177,7 +177,7 @@ pip install -r requirements.txt
 ```
 4. Download Repository:
 ```
-git clone https://github.com/TheCaduceus/WARP-UNLIMITED-ADVANCED.git
+git clone https://github.com/kazimmt/WARP-UNLIMITED-ADVANCED.git
 ```
 6. Run the program:
 ```
@@ -223,7 +223,7 @@ python -m notebook
 #### **3. Once you started your Server, Jupyter will give you its link (as shown in Image), just open it in your Browser.**
 ![](./Img/jp-1.png)
 ![](./Img/jp-2.png)
-#### **4. Now Download the "Server.ipynb" file: [from here only](https://github.com/TheCaduceus/WARP-UNLIMITED-ADVANCED/blob/main/ipynb/Server.ipynb)**
+#### **4. Now Download the "Server.ipynb" file: [from here only](https://github.com/kazimmt/WARP-UNLIMITED-ADVANCED/blob/main/ipynb/Server.ipynb)**
 #### **5. After downloading it, locate that file through your Jupyter server and open it as shown in the image and click Run.**
 ![](./Img/jupyter-server-pre.png)
 #### **6. Now enter your WARP CLIENT ID and press Enter to continue.**
@@ -280,12 +280,6 @@ termux-setup-storage && pkg update && pkg i git python wget -y && pkg upgrade &&
 
 ## **🖥️ How to use this Data on PC?**
 #### **Open the WARP app in your Phone and go to `Settings > Account > Key` and copy the License Key. Now enter that key in WARP app on Windows or MacOS or Linux.**
-
-<a name="contact-us"></a>
-
-## **⛑ Contact Us**
-#### **Join our Update Channel at Telegram: [@TheCaduceusOfficial](https://t.me/TheCaduceusOfficial)**
-#### **Directly Contact the Developer using Telegram [@HelpAutomatted_Bot](https://telegram.me/HelpAutomatted_Bot)**
 
 <a name="credits-thanks"></a>
 
